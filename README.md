@@ -5,7 +5,7 @@ TorGhost is an anonymization script. TorGhost redirects all internet traffic thr
 
 `git clone https://github.com/GreyCodeNetwork/TorGhost`
 
-`cd TorGost`
+`cd TorGhost`
 
 `chmod +x install.sh`
 
@@ -15,7 +15,7 @@ TorGhost is an anonymization script. TorGhost redirects all internet traffic thr
 ## Usage
 Torghost v3.0 usage:
 
-  `-s      --start      Start Torghost`
+  `-s      --start      Start TorGhost`
 
   `-r      --switch      Request new tor exit node`
 
